@@ -1,0 +1,7 @@
+parameters:
+#    aizatto_twitter.example.class: Aizatto\Bundle\TwitterBundle\Example
+
+services:
+#    aizatto_twitter.example:
+#        class: %aizatto_twitter.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
